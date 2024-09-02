@@ -1,4 +1,4 @@
-# google_addmob 예제
+# google_AdMob 예제
 
 ## 프로젝트 소개 👨‍💻
 
